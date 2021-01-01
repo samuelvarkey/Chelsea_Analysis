@@ -23,7 +23,7 @@ My key questions are
 
 ## File Descriptions <a name="files"></a>
 
-Chelsea stats.csv contains the data that I have used. It contains several metrics of the entire Chelsea sqaud of 2020-21. 
+ChelseaStats.csv contains the data that I have used. It contains several metrics of the entire Chelsea sqaud of 2020-21. 
 
 There is also a notebook available here to showcase all my work related to my three questions.
 
