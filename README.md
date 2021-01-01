@@ -17,9 +17,9 @@ This is an Udacity Data Scientist Nanodegree project. I chose the dataset contai
 I am really interested to gain a more data centric understanding of my club's season. 
 
 My key questions are
-1.Who are the most over-performing and under-performing goalscorers in the squad?
-2.Which player is the most unlucky creative player in the squad?
-3.Which player has the best minutes to goal ratio?
+1. Who are the most over-performing and under-performing goalscorers in the squad?
+2. Which player is the most unlucky creative player in the squad?
+3. Which player has the best minutes to goal ratio?
 
 ## File Descriptions <a name="files"></a>
 
